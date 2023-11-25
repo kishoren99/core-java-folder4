@@ -1,0 +1,12 @@
+class Student1 
+{
+	public static void main(String[] args) 
+	{
+		String Student_name="Gopal";
+		int "fees=4000"
+		char Section='A';
+		System.out.println("Student name is"+Student_name);
+		System.out.println("Student fees is"+fees);
+		System.out.println("Student section is"+Section);
+	}
+}

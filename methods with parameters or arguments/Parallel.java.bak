@@ -1,0 +1,11 @@
+class Parallel1 
+{
+	static void area(int b,int h)
+	{
+		System.out.println(area=b*h);
+	}
+	public static void main(String[] args) 
+	{
+	area(10,69);
+	}
+}
